@@ -1,0 +1,25 @@
+# --- Rác hệ điều hành ---
+.DS_Store
+Thumbs.db
+
+# --- Rác của VS Code ---
+.vscode/
+
+# --- Rác khi code C/C++ (CSLT, DSA) ---
+*.exe
+*.o
+*.out
+*.obj
+bin/
+obj/
+
+# --- Rác khi code Java (OOP) ---
+*.class
+*.jar
+*.war
+
+# --- Rác khi biên soạn LaTeX/Office ---
+*.pdf
+*.docx
+*.log
+*.aux
